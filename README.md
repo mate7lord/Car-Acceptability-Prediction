@@ -1,4 +1,4 @@
-# Car-Acceptability-Prediction
+# Car Acceptability Prediction
 Predicts whether the car is acceptable or not after the servicing period, so there are 4 measures for this, Good, Very Good, Acceptable, Unacceptable
 1. Load the data into dataframe.
 2. Perform data preprocessing like handling missing values, feature creation etc.
